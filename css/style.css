@@ -198,6 +198,10 @@ button:hover {
     color: #a0cc3a;
 }
 
+.open-time {
+    text-align: center;
+}
+
 .open-time h6 {
     color: #c5331f;
     font-size: 16px;
