@@ -188,7 +188,14 @@ button:hover {
     background: rgba(0, 0, 0, 0.22);
 }
 .logo {
-    width: 100px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: white;
+    font-size: 1.5rem;
+}
+
+.logo span {
+    color: #a0cc3a;
 }
 
 .open-time h6 {

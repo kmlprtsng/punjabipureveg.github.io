@@ -16,9 +16,9 @@
     }
 
     /* Header Part */
-    .logo {
+    /* .logo {
         width: 85px;
-    }
+    } */
     .open-time h6 {
         font-size: 14px;
     }
@@ -728,9 +728,9 @@
     }
 
     /* Header Part */
-    .logo {
+    /* .logo {
         width: 85px;
-    }
+    } */
     .open-time h6 {
         font-size: 14px;
     }
@@ -1426,9 +1426,9 @@
     }
 
     /* Header Part */
-    .logo {
+    /* .logo {
         width: 85px;
-    }
+    } */
     .open-time h6 {
         font-size: 14px;
     }
@@ -2116,9 +2116,9 @@
     }
 
     /* Header Part */
-    .logo {
+    /* .logo {
         width: 85px;
-    }
+    } */
     .open-time h6 {
         font-size: 12px;
     }
@@ -2766,9 +2766,9 @@
     }
 
     /* Header Part */
-    .logo {
+    /* .logo {
         width: 85px;
-    }
+    } */
     .open-time h6 {
         font-size: 12px;
     }
@@ -3417,9 +3417,9 @@
     }
 
     /* Header Part */
-    .logo {
+    /* .logo {
         width: 60px;
-    }
+    } */
     .open-time h6 {
         font-size: 12px;
     }
@@ -4048,9 +4048,9 @@
     }
 
     /* Header Part */
-    .logo {
+    /* .logo {
         width: 60px;
-    }
+    } */
     .open-time h6 {
         font-size: 12px;
     }
@@ -4685,9 +4685,9 @@
     }
 
     /* Header Part */
-    .logo {
+    /* .logo {
         width: 60px;
-    }
+    } */
     .open-time h6 {
         font-size: 12px;
     }
@@ -5318,9 +5318,9 @@
 
 @media screen and (max-width: 350px) {
     /* Header Part */
-    .logo {
+    /* .logo {
         width: 60px;
-    }
+    } */
     .open-time h6 {
         font-size: 12px;
     }
@@ -5971,7 +5971,7 @@
 @media screen and (max-width: 320px) {
     /* Header Part */
     .logo {
-        width: 60px;
+        width: 100%;
     }
     .open-time h6 {
         font-size: 12px;
