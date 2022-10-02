@@ -583,7 +583,9 @@ button:hover {
     padding-bottom: 1.5rem;
 }
 .menu-head h2 span {
-    color: #a0cc3a;
+    background: #ff712a;
+    padding: 0 1rem;
+    color: white;
 }
 
 .menu-head img {
