@@ -150,11 +150,6 @@
         width: 400px;
         margin: auto;
     }
-    .menu-head p {
-        font-size: 14px;
-        width: 380px;
-        margin: auto;
-    }
     .food-menu {
         padding: 20px;
         margin-top: 30px;
@@ -858,11 +853,6 @@
         width: 400px;
         margin: auto;
     }
-    .menu-head p {
-        font-size: 14px;
-        width: 380px;
-        margin: auto;
-    }
     .food-menu {
         padding: 20px;
         margin-top: 30px;
@@ -1555,11 +1545,6 @@
         width: 310px;
         margin: auto;
     }
-    .menu-head p {
-        font-size: 13px;
-        width: 380px;
-        margin: auto;
-    }
     .food-menu {
         padding: 20px;
         margin-top: 30px;
@@ -2239,11 +2224,6 @@
         width: 310px;
         margin: auto;
     }
-    .menu-head p {
-        font-size: 13px;
-        width: 380px;
-        margin: auto;
-    }
     .food-menu {
         padding: 20px;
         margin-top: 15px;
@@ -2884,11 +2864,6 @@
     .menu-head h2 {
         font-size: 34px;
         width: 310px;
-        margin: auto;
-    }
-    .menu-head p {
-        font-size: 13px;
-        width: auto;
         margin: auto;
     }
     .food-menu {
@@ -3534,9 +3509,6 @@
         width: 275px;
         margin: auto;
     }
-    .menu-head p {
-        font-size: 13px;
-    }
     .food-menu {
         padding: 10px;
         margin-top: 15px;
@@ -4162,9 +4134,6 @@
         font-size: 30px;
         width: 275px;
         margin: auto;
-    }
-    .menu-head p {
-        font-size: 13px;
     }
     .food-menu {
         padding: 10px;
@@ -4797,9 +4766,6 @@
         width: 220px;
         margin: auto;
     }
-    .menu-head p {
-        font-size: 12px;
-    }
     .food-menu {
         padding: 10px;
         margin-top: 15px;
@@ -5427,9 +5393,7 @@
         width: 220px;
         margin: auto;
     }
-    .menu-head p {
-        font-size: 13px;
-    }
+
     .food-menu {
         padding: 10px;
         margin-top: 15px;
@@ -6075,9 +6039,6 @@
         font-size: 24px;
         width: 220px;
         margin: auto;
-    }
-    .menu-head p {
-        font-size: 12px;
     }
     .food-menu {
         padding: 10px;
