@@ -1,10 +1,6 @@
 !(function (e) {
     "use strict";
 
-    e(window).on("load", function () {
-        e(".preloader-wrap").fadeOut(1e3);
-    });
-
     // For Venobox
     $(".venobox").venobox({
         spiner: "wave",
