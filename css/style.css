@@ -1869,6 +1869,7 @@ button:hover {
         font-size: 14px;
         color: #0a0626;
         font-weight: 400;
+        text-align: center;
     }
     .terms {
         text-align: right;
