@@ -52,9 +52,7 @@
         bottom: 0px;
         right: 80px;
     }
-    .home-hero-content p {
-        font-size: 16px;
-    }
+
     .menu-btn {
         padding: 12px 22px;
         font-size: 14px;
@@ -762,9 +760,7 @@
     .home-hero-content h1::before {
         display: none;
     }
-    .home-hero-content p {
-        font-size: 16px;
-    }
+
     .menu-btn {
         padding: 12px 22px;
         font-size: 14px;
@@ -1462,9 +1458,6 @@
     .home-hero-content h1::before {
         display: none;
     }
-    .home-hero-content p {
-        font-size: 14px;
-    }
     .menu-btn {
         padding: 10px 20px;
         font-size: 12px;
@@ -2152,9 +2145,6 @@
     .home-hero-content h1::before {
         display: none;
     }
-    .home-hero-content p {
-        font-size: 14px;
-    }
     .menu-btn {
         padding: 10px 20px;
         font-size: 12px;
@@ -2801,9 +2791,6 @@
     }
     .home-hero-content h1::before {
         display: none;
-    }
-    .home-hero-content p {
-        font-size: 14px;
     }
     .menu-btn {
         padding: 10px 20px;
@@ -3453,9 +3440,6 @@
     .home-hero-content h1::before {
         display: none;
     }
-    .home-hero-content p {
-        font-size: 14px;
-    }
     .menu-btn {
         padding: 10px 20px;
         font-size: 12px;
@@ -4084,9 +4068,7 @@
     .home-hero-content h1::before {
         display: none;
     }
-    .home-hero-content p {
-        font-size: 14px;
-    }
+
     .menu-btn {
         padding: 10px 20px;
         font-size: 12px;
@@ -4721,9 +4703,6 @@
     .home-hero-content h1::before {
         display: none;
     }
-    .home-hero-content p {
-        font-size: 12px;
-    }
     .menu-btn {
         padding: 10px 20px;
         font-size: 12px;
@@ -5353,9 +5332,6 @@
     }
     .home-hero-content h1::before {
         display: none;
-    }
-    .home-hero-content p {
-        font-size: 12px;
     }
     .menu-btn {
         padding: 10px 20px;
@@ -6005,9 +5981,6 @@
     }
     .home-hero-content h1::before {
         display: none;
-    }
-    .home-hero-content p {
-        font-size: 14px;
     }
     .menu-btn {
         padding: 10px 20px;
