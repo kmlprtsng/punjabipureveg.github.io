@@ -309,7 +309,7 @@ button:hover {
 
 /* HOME HERO SECTION CSS START */
 .home-hero-section {
-    background: url(../img/hotte_homebg.jpg);
+    /* background: url(../img/hotte_homebg.jpg); */
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -327,6 +327,11 @@ button:hover {
     background: rgba(0, 0, 0, 0.85);
     z-index: -1;
 }
+
+.home-hero-content {
+    text-align: center;
+}
+
 .home-hero-content h1 {
     color: #fff;
     font-size: 90px;
@@ -575,9 +580,15 @@ button:hover {
     color: #0a0626;
     font-size: 50px;
     font-weight: 700;
+    padding-bottom: 1.5rem;
 }
 .menu-head h2 span {
-    color: #ff702a;
+    color: #a0cc3a;
+}
+
+.menu-head img {
+    width: 100%;
+    margin-bottom: 1rem;
 }
 
 .menu-head p {
