@@ -309,7 +309,7 @@ button:hover {
 
 /* HOME HERO SECTION CSS START */
 .home-hero-section {
-    /* background: url(../img/hotte_homebg.jpg); */
+    background: url(../img/hotte_homebg.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
