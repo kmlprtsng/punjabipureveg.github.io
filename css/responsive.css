@@ -145,7 +145,7 @@
     .menu-head {
         padding: 0px 10px;
     }
-    .menu-head h2 {
+    .menu-head > h2 {
         font-size: 38px;
         width: 400px;
         margin: auto;
